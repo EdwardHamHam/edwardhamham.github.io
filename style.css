@@ -1,5 +1,5 @@
-body {background-color: orange; text-align: center;}
-h1 {color: green;}
+body {background-color: rgb(189, 131, 23); text-align: center;}
+h1 {color: white;}
 
 #container{
   width: 80%;
@@ -13,7 +13,8 @@ nav {
 }
 
 a {text-decoration:none}
-p {font-family: 'Indie Flower', cursive;}
+p {font-family: 'Indie Flower', cursive; color: white}
+footer {color: white}
 
 .story{
   border-style: solid;
